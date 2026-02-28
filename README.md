@@ -81,4 +81,4 @@ These insights can assist in:
 ---
 
 ## 👨‍💻 Author
-Bhaskar Mandal | Data Analyst Intern | SyntecxHub
+**Bhaskar Mandal | Data Analyst Intern | SyntecxHub**
